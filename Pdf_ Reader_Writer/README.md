@@ -1,8 +1,8 @@
-# Pdf Writer and Reader for Android
+# Pdf Reader and Writer for Android
 
-![Screenshot](https://raw.github.com/bhavyahmehta/Pdf-Reader---Writer/master/Pdf_Reader_Writer/image1.png)
+![Screenshot](https://github.com/bhavyahmehta/Pdf-Reader---Writer/blob/master/Pdf_%20Reader_Writer/image1.png)
 
-![Screenshot](https://raw.github.com/bhavyahmehta/Pdf-Reader---Writer/master/Pdf_Reader_Writer/image2.png)
+![Screenshot](https://github.com/bhavyahmehta/Pdf-Reader---Writer/blob/master/Pdf_%20Reader_Writer/image2.png)
 
 This project aims to provide a reusable pdf ganeration and pdf viewer code  for Android. It was originally based on two open source projects.
  
