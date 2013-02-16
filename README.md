@@ -1,13 +1,13 @@
 Pdf-Reader---Writer
 ===================
 
-## Simple yet powerful and reusable Pdf generation and viewer for android platform
+ Simple yet powerful and reusable Pdf generation and viewer for android platform
 
 ![Screenshot](https://raw.github.com/bhavyahmehta/Pdf-Reader---Writer/master/Pdf_%20Reader_Writer/image1.png)
 ![Screenshot](https://raw.github.com/bhavyahmehta/Pdf-Reader---Writer/master/Pdf_%20Reader_Writer/image2.png)
 
 
-## This project aims to provide a reusable pdf ganeration and pdf viewer code  for Android. It was originally based on two open source projects.
+ This project aims to provide a reusable pdf ganeration and pdf viewer code  for Android. It was originally based on two open source projects.
  
  * Pdf writer code from: [apwlibrary](http://sourceforge.net/projects/apwlibrary/)
  * Pdf reader code from: [mupdf](http://code.google.com/p/mupdf-android/)
