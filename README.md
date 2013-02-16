@@ -4,6 +4,7 @@ Pdf-Reader---Writer
  Simple yet powerful and reusable Pdf generation and viewer for android platform
 
 ![Screenshot](https://raw.github.com/bhavyahmehta/Pdf-Reader---Writer/master/Pdf_%20Reader_Writer/image1.png)
+
 ![Screenshot](https://raw.github.com/bhavyahmehta/Pdf-Reader---Writer/master/Pdf_%20Reader_Writer/image2.png)
 
 
@@ -27,6 +28,5 @@ Pdf-Reader---Writer
 
  * Pdf writer code having BSD License.
    [apwlibrary](http://sourceforge.net/projects/apwlibrary/)  
-
  * Pdf reader code having GNU GPL v3 License.
    [mupdf](http://code.google.com/p/mupdf-android/)
